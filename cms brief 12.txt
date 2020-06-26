@@ -1,3 +1,9 @@
+Elementor : pour modifier sur le contenu.
+TranslatePress - Multilingual : pour la traduction manuel	
+WooCommerce : pour la gestion de store
+Yoast SEO : for Search Engine Optimization .
+GDPR : Règlement Général pour la Protection des Données
+
 Système de gestion de contenu : qu'est-ce que c'est ? 
 Le système de gestion de contenu (SGC) ou Content Management System (CMS) en anglais regroupe une catégorie de logiciels 
 qui permettent de concevoir, gérer et mettre à jour des sites Web ou des application mobile de manière dynamique.  
